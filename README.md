@@ -66,6 +66,3 @@ This project is based on the original repository by Kunal Tyagi
 - Answer review
 - Improved user interface
 
-## Status
-
-The uploaded source code and application functionality should be verified before considering the project complete.
