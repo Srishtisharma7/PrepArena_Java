@@ -55,11 +55,7 @@ If the project does not build, verify the JDK configuration and the project's en
 
 ## Attribution
 
-This project is based on the original repository by Kunal Tyagi:
-
-https://github.com/kunaltyagi9/Quiz-Application-Using-Java
-
-The original project is credited as the starting point. Any additional features and modifications should be documented separately as they are implemented.
+This project is based on the original repository by Kunal Tyagi
 
 ## Future Enhancements
 
